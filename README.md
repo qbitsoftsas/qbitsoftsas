@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @qbitsoftsas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ARQUITECTURA MICROSERVICIOS PARA UNA OFICINA VIRTUAL Y PRESENCIAL, CON PASARELA DE MEDIOS DE PAGO
 
-<!---
-qbitsoftsas/qbitsoftsas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![QbitSoft vpd](https://github.com/qbitsoftsas/qbitsoftsas/assets/135436774/33fe66c7-d90d-4f3d-8b26-b35bfc5a4950)
+
+
